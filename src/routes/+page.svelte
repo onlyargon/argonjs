@@ -13,7 +13,9 @@
 <main class="max-w-7xl mx-auto h-screen">
 	<div class="flex flex-col items-center justify-center h-full">
 		<p class="text-white sm:text-3xl text-xl tracking-widest">here at</p>
-		<h1 class="sm:text-[96pt] text-6xl font-bold text-transparent bg-clip-text animate-hazy-twist">
+		<h1
+			class="sm:text-[96pt] leading-normal text-6xl font-bold tracking-tight text-transparent bg-clip-text animate-hazy-twist"
+		>
 			@argonjs
 		</h1>
 		<p class="text-white sm:text-3xl text-xl tracking-wider">we develop amazing webistes</p>
